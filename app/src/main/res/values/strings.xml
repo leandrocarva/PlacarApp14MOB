@@ -3,4 +3,7 @@
     <string name="label_titulo">Times</string>
     <string name="label_desenvolvido_por">Desenvolvido por Carvalho</string>
 
+    <string name="placar_inicial">0</string>
+    <string name="gol">GOL</string>
+
 </resources>
